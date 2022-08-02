@@ -1,6 +1,6 @@
-# **Alguns comandos GIT para rápida consulta**
+# :book: **Alguns comandos GIT para rápida consulta**
 
-​			**_<u>Criando um repositório</u>_**
+​			**_<u>Criando um repositório</u>_** :books:
 
 - **git bash** no local em que se encontra a pasta workspace
 
@@ -14,7 +14,7 @@
 
 - **git init** para iniciar um repositório git e versionaliza-lo
 
--  **ls -a** flag para visualizar pastas ocultas
+- **ls -a** flag para visualizar pastas ocultas
 
 - **git config --global [user.email](http://user.email) "seu e-mail aqui"** para primeiro acesso
 
@@ -30,7 +30,7 @@
 
   
 
-​				**_<u>Trabalhando com GitHub</u>_**
+​			:construction_worker_woman:	**_<u>Trabalhando com GitHub</u>_**
 
 - **git config --list** lista todas as configurações do meu git
 
@@ -46,7 +46,7 @@
 
 
 
-​			**_<u>Resolvendo conflitos</u>_**
+​		:red_circle:	**_<u>Resolvendo conflitos</u>_**
 
 **Como os conflitos acontecem no GitHub e como resolve-los**
 
